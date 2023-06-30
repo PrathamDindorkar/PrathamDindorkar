@@ -12,7 +12,7 @@
 <h1 align="center">My Acheivements🏆</h1>
 <ul>
   <h3><li>Completed the Course of <a href="https://thingqbator.s3.ap-south-1.amazonaws.com/1632803507703_PrathamDindorkar_course_Course-Excellence-Template.pdf">Machine learning and Image processing </a> from Coursera.</li>
-   <br><li>Completed the Course of <a href="">Web Designing and Development </a> from IIST.</li><br>
+   <br><li>Completed the Course of <a href="https://github.com/PrathamDindorkar/PrathamDindorkar/blob/f7d2671e3416209573a788761b3af88f16078a26/Pratham%20Dindorkar.pdf">Web Designing and Development </a> from IIST.</li><br>
      <li>Completed the Course of <a href="">Career Edge-Young Professionals </a> from TCS-ION.</li></h3><br>
 </ul>
 <h3 align="left">Connect with me:</h3>
