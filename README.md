@@ -13,8 +13,8 @@
 <ul>
   <h3><li>Completed the Course of <a href="https://thingqbator.s3.ap-south-1.amazonaws.com/1632803507703_PrathamDindorkar_course_Course-Excellence-Template.pdf">Machine learning and Image processing </a> from Coursera.</li>
    <br><li>Completed the Course of <a href="https://github.com/PrathamDindorkar/PrathamDindorkar/commits?author=PrathamDindorkar">Web Designing and Development </a> from IIST.</li><br>
-     <li>Completed the Course of <a href="">Career Edge-Young Professionals </a> from TCS-ION.</li></h3><br>
-  <li>Participated in <a href="https://github.com/PrathamDindorkar/PrathamDindorkar/commits?author=PrathamDindorkar"> Hackathon </a> at TECHNEX 2023</li>
+     <li>Completed the Course of <a href="">Career Edge-Young Professionals </a> from TCS-ION.</li><br>
+  <li>Participated in <a href="https://github.com/PrathamDindorkar/PrathamDindorkar/commits?author=PrathamDindorkar"> Hackathon </a> at TECHNEX 2023</li></h3>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
