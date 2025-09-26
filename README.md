@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding animation" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" style="border-radius: 10px;" />
 </div>
 
 ---
@@ -15,7 +15,7 @@ I'm a Computer Engineering student with a passion for building innovative soluti
 
 - 🔭 **Currently Studying**: Computer Engineering  
 - 🌱 **Learning**: Modern Frameworks, AI/ML, and Web Development  
-- 💼 **Open to**: Internships, Collaborations, and Open-Source Projects  
+- 💼 **Open to**: Full-Time Jobs, Collaborations, and Open-Source Projects  
 - 📫 **Reach Me**: [prathamdindorkar67@gmail.com](mailto:prathamdindorkar67@gmail.com)
 
 ---
@@ -35,10 +35,18 @@ Here are some milestones I'm proud of:
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" style="margin: 10px;" />
 </p>
 
@@ -64,10 +72,10 @@ Here are some milestones I'm proud of:
 ### 🚀 Featured Projects
 Explore some of my work:
 
-- **[Project Name 1]** - A brief description of a notable project with a link to the repository or live demo.
-- **[Project Name 2]** - Another project with a focus on a specific technology or achievement.
+- **TechMock** - Developed a responsive web platform for online mock tests with role-based access for users and admins. Built an engaging and animated UI using React.js and Material-UI, integrated Razorpay for payments, and implemented backend services with Node.js & Supabase. Designed features to provide certifications for high scores and award achievements and badges to motivate learners.(https://techmock-dva6.vercel.app/)
+  
+- **ManageJob** - Built a job portal app, ManageJob, using Flutter for job seekers and recruiters. Implemented features like job posting, search, save, and apply. Integrated role-based access, Supabase authentication, and Supabase for data storage. Focused on user experience, mobile responsiveness, and real-time updates.
 
-*Want to collaborate? Check out my [repositories](https://github.com/PrathamDindorkar?tab=repositories) or drop me an email!*
 
 ---
 
