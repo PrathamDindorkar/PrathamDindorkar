@@ -1,61 +1,76 @@
-<h1 align="center">👋 Hi, I'm Pratham Dindorkar</h1>
-<h3 align="center">🚀 B.Tech Computer Engineering Student | Aspiring Software Developer</h3>
+<div align="center">
+  <h1>👋 Hey, I'm Pratham Dindorkar!</h1>
+  <h3>A Passionate B.Tech Computer Engineering Student 🚀</h3>
+  <img src="https://komarev.com/ghpvc/?username=prathamdindorkar&style=flat-square&color=brightgreen" alt="Profile views" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamdindorkar&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="prathamdindorkar" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding animation" style="border-radius: 10px;" />
+</div>
 
 ---
 
 ### 🌟 About Me
-- 🎓 Currently pursuing **Computer Engineering**  
-- 🌱 Exploring **Frameworks, AI/ML, and Web Development**  
-- 💡 Passionate about building impactful software projects  
-- 📫 Reach me at: **prathamdindorkar67@gmail.com**  
+I'm a Computer Engineering student with a passion for building innovative solutions through code. I love exploring new technologies, participating in hackathons, and contributing to open-source projects. My goal is to create impactful software that solves real-world problems.
+
+- 🔭 **Currently Studying**: Computer Engineering  
+- 🌱 **Learning**: Modern Frameworks, AI/ML, and Web Development  
+- 💼 **Open to**: Internships, Collaborations, and Open-Source Projects  
+- 📫 **Reach Me**: [prathamdindorkar67@gmail.com](mailto:prathamdindorkar67@gmail.com)
 
 ---
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 ### 🏆 Achievements
-- 📜 Completed **[Machine Learning & Image Processing](https://thingqbator.s3.ap-south-1.amazonaws.com/1632803507703_PrathamDindorkar_course_Course-Excellence-Template.pdf)** – Coursera  
-- 🎨 Completed **[Web Designing & Development](https://github.com/PrathamDindorkar/PrathamDindorkar/commits?author=PrathamDindorkar)** – IIST  
-- 🚀 Completed **Career Edge - Young Professionals** – TCS-ION  
-- 💻 Participated in **Hackathon at TECHNEX 2023**  
+Here are some milestones I'm proud of:
+
+- 🧠 Completed **Machine Learning and Image Processing** course on Coursera ([Certificate](https://thingqbator.s3.ap-south-1.amazonaws.com/1632803507703_PrathamDindorkar_course_Course-Excellence-Template.pdf))  
+- 🌐 Completed **Web Designing and Development** course from IIST ([View Commits](https://github.com/PrathamDindorkar/PrathamDindorkar/commits?author=PrathamDindorkar))  
+- 💡 Completed **Career Edge - Young Professionals** course from TCS-ION  
+- 🏅 Participated in **Hackathon at TECHNEX 2023** ([View Contributions](https://github.com/PrathamDindorkar/PrathamDindorkar/commits?author=PrathamDindorkar))
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://twitter.com/pratham49783758" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://linkedin.com/in/pratham-d-22b53b1ab" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:prathamdindorkar67@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,react,mysql,arduino,unreal" />
-</p>
-
----
-
-### 📊 GitHub Stats
+### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamdindorkar&show_icons=true&theme=tokyonight" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamdindorkar&theme=tokyonight" alt="streak" width="48%" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" style="margin: 10px;" />
 </p>
 
+---
+
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamdindorkar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamdindorkar&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamdindorkar&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🌐 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdindorkar&layout=compact&theme=tokyonight" alt="langs" />
+  <a href="https://twitter.com/pratham49783758" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pratham-d-22b53b1ab" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
 
-### ✨ Fun Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+### 🚀 Featured Projects
+Explore some of my work:
+
+- **[Project Name 1]** - A brief description of a notable project with a link to the repository or live demo.
+- **[Project Name 2]** - Another project with a focus on a specific technology or achievement.
+
+*Want to collaborate? Check out my [repositories](https://github.com/PrathamDindorkar?tab=repositories) or drop me an email!*
 
 ---
+
+<div align="center">
+  <p><i>Built with 💻 and ☕ by Pratham Dindorkar</i></p>
+</div>
